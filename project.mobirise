@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "East Hill Massage and Aesthetics",
-    "currentPage": "home.html",
+    "currentPage": "CONTACT.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1145,7 +1145,7 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/skinreading-5-2000x1128.jpg",
@@ -3346,7 +3346,7 @@
             "overlay": true,
             "overlayColor": "#efefef",
             "overlayOpacity": "0.9",
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-warning\">BOOK</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\">SEND</a>"
           },
           "title": "Get in touch",
           "title1": "East Hill Massage and Aesthetics",
@@ -7353,7 +7353,7 @@
             "overlayOpacity": "0.9"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social btn-warning\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/theeasthillspa\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
